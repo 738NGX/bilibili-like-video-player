@@ -1,4 +1,4 @@
-const video_data=[
+﻿const video_data=[
     {
         title:'丁真进军说唱圈,《zood》空降B榜',
         play:'2438.9万',

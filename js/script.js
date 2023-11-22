@@ -1,4 +1,4 @@
-// script.js
+﻿// script.js
 document.addEventListener('DOMContentLoaded', function () {
     loadVideos(video_data); // 加载所有视频
 });
