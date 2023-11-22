@@ -24,7 +24,7 @@ body{
 .up-info{
     position: absolute;
     color: #fff;
-    top: 80%;
+    bottom: 13%;
     left: 0;
     display: flex;
     flex-direction: row;
@@ -32,80 +32,80 @@ body{
 
 .up-name{
     font-weight: bold;
-    font-size: 16px;
-    margin: 5px;
-    margin-top: 10px;
+    font-size: 1rem;
+    margin: 0.2rem;
+    margin-top: 0.5rem;
 }
 
 .up-follower{
     font-weight: normal;
-    font-size: 12px;
-    margin: 5px;
-    margin-top: 0px;
+    font-size: 0.8rem;
+    margin: 0.2rem;
+    margin-top: 0rem;
 }
 
 .up-follow{
-    margin: 5px;
-    height: 30px;
+    margin: 0.5rem;
+    height: 1.6rem;
 }
 
 .up-avatar{
-    width: 50px;
-    height: 50px;
+    width: 3rem;
+    height: 3rem;
     border-radius: 50%;
-    margin-bottom: 20px;
-    border: #fff solid 2px;
-    margin: 5px;
+    margin-bottom: 1rem;
+    border: #fff solid 0.1rem;
+    margin: 0.2rem;
 }
 
 .title{
     font-weight: bold;
-    font-size: 16px;
-    margin: 5px;
+    font-size: 1rem;
+    margin: 0.2rem;
     position: absolute;
     color: #fff;
-    top: 88%;
+    bottom: 10%;
     left: 1%;
     display: flex;
 }
 
 .play{
     font-weight: normal;
-    font-size: 12px;
-    margin: 5px;
+    font-size: 0.8rem;
+    margin: 0.2rem;
     position: absolute;
     color: #fff;
-    top: 91%;
+    bottom: 7%;
     left: 1%;
     display: flex;
 }
 
 .bullet{
-    height: 40px;
+    height: 2.5rem;
     width: auto;
     position: absolute;
     color: #fff;
-    bottom: 0;
-    left: 0;
+    bottom: 1%;
+    left: 0%;
     display: flex;
     margin: 5px;
 }
 
 .icons{
     position: absolute;
-    color: hsl(0, 0%, 100%);
-    bottom: 5%;
+    color: #fff;
+    bottom: 8%;
     right: 0;
     display: flex;
     flex-direction: column;
-    margin: 5px;
+    margin: 0.2rem;
     align-items: center;
     justify-content: center;
 }
 
 .icons-icon{
-    width: 35px;
-    height: 35px;
+    width: 2.5rem;
+    height: 2.5rem;
 }
 
 .icons-icon img{
@@ -115,60 +115,60 @@ body{
 
 .icons-info{
     font-weight: bold;
-    font-size: 14px;
-    margin: 5px;
-    margin-bottom: 20px;
+    font-size: 0.9rem;
+    margin: 0.2rem;
+    margin-bottom: 0.8rem;
 }
 
 .detail{
     position: absolute;
-    height: 40px;
+    height: 3rem;
     width: auto;
-    bottom: 0;
+    bottom: 1%;
     right: 0;
     display: flex;
     flex-direction: column;
-    margin: 10px;
+    margin: 0.8rem;
     align-items: center;
     justify-content: center;
 }
 
 .back{
     position: absolute;
-    height: 20px;
+    height: 1.5rem;
     width: auto;
     top: 0;
     left: 0;
     display: flex;
     flex-direction: column;
-    margin: 10px;
+    margin: 0.5rem;
     align-items: center;
     justify-content: center;
 }
 
 .watching{
     position: absolute;
-    font-size: 12px;
+    font-size: 0.8rem;
     color:#fff;
     width: auto;
     top: 0;
-    left: 13%;
+    left: 14%;
     display: flex;
     flex-direction: column;
-    margin: 10px;
+    margin: 0.6rem;
     align-items: center;
     justify-content: center;
 }
 
 .search{
     position: absolute;
-    height: 20px;
+    height: 1.5rem;
     width: auto;
     top: 0;
-    right: 0;
+    right: 1%;
     display: flex;
     flex-direction: column;
-    margin: 10px;
+    margin: 0.5rem;
     align-items: center;
     justify-content: center;
 }
