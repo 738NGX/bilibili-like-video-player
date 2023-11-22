@@ -31,24 +31,24 @@ function loadVideos(videos) {
             <div class='icons'>
                 <div class='icons-icon'>
                     <img src="./images/icons/like.png">
+                    <div class='icons-info'>${data.likes}</div>
                 </div>
-                <div class='icons-info'>${data.likes}</div>
                 <div class='icons-icon'>
                     <img src="./images/icons/comment.png">
+                    <div class='icons-info'>${data.comments}</div>
                 </div>
-                <div class='icons-info'>${data.comments}</div>
                 <div class='icons-icon'>
                     <img src="./images/icons/coin.png">
+                    <div class='icons-info'>${data.coins}</div>
                 </div>
-                <div class='icons-info'>${data.coins}</div>
                 <div class='icons-icon'>
                     <img src="./images/icons/favorite.png">
+                    <div class='icons-info'>${data.favorites}</div>
                 </div>
-                <div class='icons-info'>${data.favorites}</div>
                 <div class='icons-icon'>
                     <img src="./images/icons/share.png">
+                    <div class='icons-info'>${data.shares}</div>
                 </div>
-                <div class='icons-info'>${data.shares}</div>
             </div>
         `;
 
